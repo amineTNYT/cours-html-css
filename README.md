@@ -11,14 +11,13 @@ Ce document présente les fondamentaux des STI selon le curriculum national :
 -**CSS**
 - **Systèmes informatiques et réseaux**
 - **Technologies numériques et électroniques** 
-- **Architecture des ordinateurs**
 - **Systèmes d'exploitation**
 
 
 ## 👥 Public Cible
 
-- Élèves de **3ème année secondaire** option STI
-- Élèves de **4ème année secondaire** option STI
+- Élèves de **3ème année secondaire** section SI
+- Élèves de **4ème année secondaire** section SI
 - Étudiants en initiation aux technologies
 
 ---
